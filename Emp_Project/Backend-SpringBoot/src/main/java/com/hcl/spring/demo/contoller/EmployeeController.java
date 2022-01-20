@@ -1,7 +1,7 @@
-package com.hcl.spring.demo.contoller;
+package com.spring.demo.contoller;
 
-import com.hcl.spring.demo.models.Employee;
-import com.hcl.spring.demo.services.EmployeeService;
+import com.spring.demo.models.Employee;
+import com.spring.demo.services.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
